@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Utility\\Bulky2.Utility.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\Bulky2.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\Bulky2.Models.csproj",
+        "projectName": "Bulky2.Models",
+        "projectPath": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\Bulky2.Models.csproj",
+        "packagesPath": "C:\\Users\\jaiso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Utility\\Bulky2.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Utility\\Bulky2.Utility.csproj",
+        "projectName": "Bulky2.DataAccess",
+        "projectPath": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Utility\\Bulky2.Utility.csproj",
+        "packagesPath": "C:\\Users\\jaiso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\Bulky2.Models.csproj": {
+                "projectPath": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2.Models\\Bulky2.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

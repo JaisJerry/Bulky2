@@ -1,0 +1,12 @@
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\bin\Debug\net6.0\Bulky2.Models.deps.json
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\bin\Debug\net6.0\Bulky2.Models.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\bin\Debug\net6.0\Bulky2.Models.pdb
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.csproj.AssemblyReference.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.AssemblyInfoInputs.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.AssemblyInfo.cs
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.csproj.CoreCompileInputs.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\refint\Bulky2.Models.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\Bulky2.Models.pdb
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2.Models\obj\Debug\net6.0\ref\Bulky2.Models.dll
