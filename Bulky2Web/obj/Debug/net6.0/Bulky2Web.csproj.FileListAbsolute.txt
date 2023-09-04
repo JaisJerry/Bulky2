@@ -552,3 +552,4 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\refint\Bulky2Web
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.pdb
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.genruntimeconfig.cache
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\ref\Bulky2Web.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.MvcApplicationPartsAssemblyInfo.cs
