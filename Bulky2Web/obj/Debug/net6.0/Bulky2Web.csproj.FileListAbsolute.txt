@@ -286,6 +286,15 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2\obj\Debug\net6.0\refint\Bulky2Web.dl
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2\obj\Debug\net6.0\Bulky2Web.pdb
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2\obj\Debug\net6.0\Bulky2Web.genruntimeconfig.cache
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2\obj\Debug\net6.0\ref\Bulky2Web.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.csproj.AssemblyReference.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.AssemblyInfoInputs.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.AssemblyInfo.cs
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.csproj.CoreCompileInputs.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.RazorAssemblyInfo.cache
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.RazorAssemblyInfo.cs
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\appsettings.json
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Bulky2Web.staticwebassets.runtime.json
@@ -533,14 +542,6 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Bulky2.DataAcces
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Bulky2.Models.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Bulky2.DataAccess.pdb
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Bulky2.Models.pdb
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.csproj.AssemblyReference.cache
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.AssemblyInfoInputs.cache
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.AssemblyInfo.cs
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.csproj.CoreCompileInputs.cache
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.RazorAssemblyInfo.cache
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.RazorAssemblyInfo.cs
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
@@ -552,4 +553,3 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\refint\Bulky2Web
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.pdb
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.genruntimeconfig.cache
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\ref\Bulky2Web.dll
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.MvcApplicationPartsAssemblyInfo.cs

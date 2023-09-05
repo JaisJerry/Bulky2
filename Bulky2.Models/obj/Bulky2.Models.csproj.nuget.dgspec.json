@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
-              "version": "[2.2.5, )"
+              "version": "[2.1.38, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
