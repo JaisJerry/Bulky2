@@ -46,7 +46,16 @@
             <input asp-for="Price100" class="form-control" />
             <span asp-validation-for="Price100" class="text-danger"></span>
         </div>
-    
+
+        <div class="mb-3 col-6">
+            <select asp-for="CategoryId" asp-items="ViewBag.CategoryList" class="form-select border-0 shadow">
+                <option disabled selected>--Select Category--</option>
+            </select>
+            <label asp-for="CategoryId"></label>
+            
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
     <div class="row">
         <div class="col-6 col-md-3">
             <button type="submit" class="btn btn-primary form-control"  >Create</button>

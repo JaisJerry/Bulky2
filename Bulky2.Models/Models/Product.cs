@@ -29,8 +29,8 @@ namespace Bulky2.Models.Models
         [Range(1, 10000)]
         [Display(Name = "Price 50-100")]
         public double Price100 { get; set; }
-        //[ValidateNever]
-        //public string ImageUrl { get; set; }
+        [ValidateNever]
+        public string? ImageUrl { get; set; }
         [Display(Name = "Category")]
         public int CategoryId { get; set; }
                 
@@ -46,5 +46,6 @@ namespace Bulky2.Models.Models
         [Range(1, 10000)]
         [Display(Name = "Special Price")]
         public double Price { get; set; }
+
     }
 }

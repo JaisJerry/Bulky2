@@ -3,6 +3,8 @@ using Bulky2.Data;
 using Bulky2.DataAccess.Repository.IRepository;
 using Bulky2.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
 
 namespace Bulky2Web.Areas.Admin.Controllers
 {
@@ -17,6 +19,7 @@ namespace Bulky2Web.Areas.Admin.Controllers
         public IActionResult Index()
         {
             List<Category> objCategories = (List<Category>)_unitOfWork.Category.GetAll();
+           
             return View(objCategories);
         }
         public IActionResult Create()
