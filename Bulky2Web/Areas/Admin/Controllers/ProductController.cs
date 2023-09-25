@@ -3,6 +3,7 @@ using Bulky2.Data;
 using Bulky2.DataAccess.Repository.IRepository;
  
 using Bulky2.Models.Models;
+using Bulky2.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
@@ -25,25 +26,41 @@ namespace Bulky2Web.Areas.Admin.Controllers
         }
         public IActionResult Create()
         {
-            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+            
+            //ViewBag.CategoryList = CategoryList;    
+            ProductVM productVM = new()
             {
-                Text = u.CategoryName,
-                Value = u.CategoryId.ToString()
-            });
-            ViewBag.CategoryList = CategoryList;    
-            return View();
+                CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.CategoryName,
+                    Value = u.CategoryId.ToString()
+                }),
+                product = new Product()
+
+            };
+            return View(productVM);
         }
         [HttpPost]
-        public IActionResult Create(Product obj)
+        public IActionResult Create(ProductVM productVM)
         {
             if (ModelState.IsValid)
             {
-                _unitOfWork.Product.Add(obj);
+                _unitOfWork.Product.Add(productVM.product);
                 _unitOfWork.Save();
                 TempData["Success"] = "Created";
                 return RedirectToAction("Index", "Product");
             }
-            return View(obj);
+            else
+            {
+                productVM.CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.CategoryName,
+                    Value = u.CategoryId.ToString()
+                });
+
+                return View(productVM);
+            }
+           
 
         }
 
