@@ -24,7 +24,7 @@ namespace Bulky2Web.Areas.Admin.Controllers
            
             return View(objCategories);
         }
-        public IActionResult Create()
+        public IActionResult Upsert(int? id)
         {
             
             //ViewBag.CategoryList = CategoryList;    
@@ -38,10 +38,19 @@ namespace Bulky2Web.Areas.Admin.Controllers
                 product = new Product()
 
             };
-            return View(productVM);
+            if(id== null || id==0)//Create
+                {
+                return View(productVM); 
+            }
+            else//update
+            {
+                productVM.product = _unitOfWork.Product.GetFirstOrDefault(u=>u.Id==id);
+                return View(productVM);
+            }
+           
         }
         [HttpPost]
-        public IActionResult Create(ProductVM productVM)
+        public IActionResult Upsert(ProductVM productVM, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
