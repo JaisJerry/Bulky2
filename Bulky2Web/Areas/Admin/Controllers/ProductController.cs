@@ -63,6 +63,16 @@ namespace Bulky2Web.Areas.Admin.Controllers
                     string upload = Path.Combine(wwwRootPath, @"images\products");
                     string extention = Path.GetExtension(file.FileName);
 
+                    if(!string.IsNullOrEmpty (productVM.product.ImageUrl))
+                    {
+                        //image URL not preset delete
+
+                        var oldImagePath = Path.Combine(wwwRootPath + productVM.product.ImageUrl);//Trim('\\')) ; ;
+                        if(System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);
+                        }
+                    }
                     using (var filestreams = new FileStream(Path.Combine(upload, filename + extention), FileMode.Create))
                     {
                         file.CopyTo(filestreams);
@@ -71,7 +81,15 @@ namespace Bulky2Web.Areas.Admin.Controllers
 
 
                 }
-                _unitOfWork.Product.Add(productVM.product);
+                if(productVM.product.Id == 0)
+                {
+                    _unitOfWork.Product.Add(productVM.product);
+                }
+                else
+                {
+                    _unitOfWork.Product.Update(productVM.product);
+                }
+                
                 _unitOfWork.Save();
                 TempData["Success"] = "Created";
                 return RedirectToAction("Index", "Product");
