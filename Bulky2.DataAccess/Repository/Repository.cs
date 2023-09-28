@@ -18,7 +18,9 @@ namespace Bulky2.DataAccess.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
-            dbSet = _db.Set<T>();        }
+            dbSet = _db.Set<T>();
+            _db.Products.Include(u => u.category).Include(u => u.CategoryId);
+        }
 
         public void Add(T entity)
         {

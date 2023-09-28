@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HzuhsPG5RHqJ7Cg1Tef8OLZZhs7D8O1wHCdYZOx2vcI=",
+  "Hash": "TCZUBpN+z07luu7XkdlUfZztAVg3LYTrIcvALSR9iDM=",
   "Source": "Bulky2Web",
   "BasePath": "_content/Bulky2Web",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\images\\products\\580b543f-05ca-4765-a8a5-c14b41c42842.jpg",
+      "SourceId": "Bulky2Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\",
+      "BasePath": "_content/Bulky2Web",
+      "RelativePath": "images/products/580b543f-05ca-4765-a8a5-c14b41c42842.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\580b543f-05ca-4765-a8a5-c14b41c42842.jpg"
     },
     {
       "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\js\\site.js",

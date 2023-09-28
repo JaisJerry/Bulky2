@@ -31,6 +31,7 @@ namespace Bulky2.Models.Models
         public double Price100 { get; set; }
         [ValidateNever]
         public string? ImageUrl { get; set; }
+
         [Display(Name = "Category")]
         public int CategoryId { get; set; }
                 

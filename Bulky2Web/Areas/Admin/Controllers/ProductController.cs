@@ -22,9 +22,9 @@ namespace Bulky2Web.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            List<Product> objCategories = (List<Product>)_unitOfWork.Product.GetAll();
-           
-            return View(objCategories);
+            List<Product> objProdctList = (List<Product>)_unitOfWork.Product.GetAll(includeproperties: "category").ToList();
+
+            return View(objProdctList);
         }
         public IActionResult Upsert(int? id)
         {
@@ -159,5 +159,17 @@ namespace Bulky2Web.Areas.Admin.Controllers
 
 
         }
+
+        #region
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+             
+
+            List<Product> objProdctList = (List<Product>)_unitOfWork.Product.GetAll(includeproperties: "category").ToList();
+            return Json(new { data = objProdctList });
+        }
+        #endregion
     }
 }
