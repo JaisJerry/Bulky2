@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TCZUBpN+z07luu7XkdlUfZztAVg3LYTrIcvALSR9iDM=",
+  "Hash": "bSoTM+ydWKp6gfdA+tUPO4x3Xh9+I9GvmzI+Ftj2Pn8=",
   "Source": "Bulky2Web",
   "BasePath": "_content/Bulky2Web",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\images\\products\\127a9bf1-0fbd-4f46-8ef0-1205ba7515eb.jpeg",
+      "SourceId": "Bulky2Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\",
+      "BasePath": "_content/Bulky2Web",
+      "RelativePath": "images/products/127a9bf1-0fbd-4f46-8ef0-1205ba7515eb.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\127a9bf1-0fbd-4f46-8ef0-1205ba7515eb.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\images\\products\\580b543f-05ca-4765-a8a5-c14b41c42842.jpg",
       "SourceId": "Bulky2Web",
       "SourceType": "Discovered",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\580b543f-05ca-4765-a8a5-c14b41c42842.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\images\\products\\7242f34c-1d03-437e-8d52-2b93f337e7f2.jpg",
+      "SourceId": "Bulky2Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\",
+      "BasePath": "_content/Bulky2Web",
+      "RelativePath": "images/products/7242f34c-1d03-437e-8d52-2b93f337e7f2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\7242f34c-1d03-437e-8d52-2b93f337e7f2.jpg"
     },
     {
       "Identity": "C:\\Users\\jaiso\\2018\\2022Udemy\\Bulky2\\Bulky2Web\\wwwroot\\js\\site.js",
