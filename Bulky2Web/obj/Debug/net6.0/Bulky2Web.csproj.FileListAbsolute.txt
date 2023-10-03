@@ -525,8 +525,6 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\ru\Microsoft.Cod
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
@@ -534,7 +532,6 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win-x86
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
@@ -555,3 +552,13 @@ C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\Bulky2Web.genrun
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\obj\Debug\net6.0\ref\Bulky2Web.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jaiso\2018\2022Udemy\Bulky2\Bulky2Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
