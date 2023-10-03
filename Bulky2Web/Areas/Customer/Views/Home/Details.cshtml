@@ -41,7 +41,7 @@
                         </div>
                         <div class="row text-center ps-2">
                             <div class="p-1 col-3 col-lg-2 bg-white border-bottom">
-                                <div class="text-dark text-opacity-50 fw-semibold">Quantity :</div>
+                                <div class="text-dark text-opacity-50 fw-semibold">Quantity:</div>
                             </div>
                             <div class="p-1 col-3 col-lg-2 bg-white border-bottom">
                                 <div class="text-dark text-opacity-50 fw-semibold">1-50</div>
@@ -61,14 +61,16 @@
                                 <div>@Model.Price</div>
                             </div>
                             <div class="p-1 col-3 col-lg-2 bg-white text-warning fw-bold">
-                                <div>Price50</div>
+                                <div>@Model.Price50</div>
                             </div>
                             <div class="p-1 col-3 col-lg-2 bg-white text-warning fw-bold">
-                                <div>Price100</div>
+                                <div>@Model.Price100</div>
                             </div>
                         </div>
                         <div class="row pl-2 my-3">
-                            <p class="text-secondary lh-sm">Description</p>
+                            <p class="text-secondary lh-sm">Description :</p>
+                            @Model.Description
+
                         </div>
                         <div class="row pl-2 mb-3">
                             <div class="col-md-4">

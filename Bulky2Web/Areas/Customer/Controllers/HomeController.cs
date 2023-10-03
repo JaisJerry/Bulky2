@@ -27,9 +27,9 @@ namespace Bulky2Web.Areas.Customer.Controllers
             return View(productList);
         }
 
-        public IActionResult Details(int id)
+        public IActionResult Details(int productID)
         {
-            Product product = _unitOfWork.Product.GetFirstOrDefault(u=>u.Id==id,includeProperties: "category");
+            Product product = _unitOfWork.Product.GetFirstOrDefault(u=>u.Id==productID, includeProperties: "category");
                  return View(product);
         }
         public IActionResult Privacy()
